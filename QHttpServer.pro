@@ -31,3 +31,7 @@ HEADERS += \
 	Server/QHttpResponse.hpp \
 	Server/QTcpHttpServer.hpp \
 	Server/QUdpHttpServer.hpp
+
+DISTFILES += \
+	LICENSE \
+	README.md
